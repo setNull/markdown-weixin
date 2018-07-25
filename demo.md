@@ -106,9 +106,6 @@ function showSnackbar() {
 <br/>
 第二行
 </p>
-
-![qrcode](https://blog.qikqiak.com/img/posts/qrcode_for_gh_d6dd87b6ceb4_430.jpg)
-
 ***
 
 ### LICENSE
