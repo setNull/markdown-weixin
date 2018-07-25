@@ -1,11 +1,11 @@
-### Markdown-Weixin 简介
-Markdown 转微信公众帐号内容神器，能让`Markdown`内容，无需作任何调整就能**一键复制**到微信公众号使用，特别针对代码展示做了优化。
+### Markdown-RichText 简介
+Markdown 转富文本格式，能让`Markdown`内容，特别针对代码展示做了优化。
 
 ### 代码块显示效果
 注：markdown对代码块的语法是开始和结束行都要添加：\`\`\`,其中 \` 为windows键盘左上角那个，如下：
 ```yaml
 gdb:
-  bin           : /opt/gcc-linaro-5.1-2015.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gdb
+  bin           : /opt/bin/arm-linux-gnueabihf-gdb
   plugin        : libs/gdb-heap
   attach_port   : 9999
 checksum_file: .done
